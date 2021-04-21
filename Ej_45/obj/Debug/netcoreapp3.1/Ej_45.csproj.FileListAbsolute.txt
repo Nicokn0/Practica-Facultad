@@ -1,0 +1,13 @@
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\bin\Debug\netcoreapp3.1\Ej_45.exe
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\bin\Debug\netcoreapp3.1\Ej_45.deps.json
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\bin\Debug\netcoreapp3.1\Ej_45.runtimeconfig.json
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\bin\Debug\netcoreapp3.1\Ej_45.runtimeconfig.dev.json
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\bin\Debug\netcoreapp3.1\Ej_45.dll
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\bin\Debug\netcoreapp3.1\Ej_45.pdb
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\obj\Debug\netcoreapp3.1\Ej_45.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\obj\Debug\netcoreapp3.1\Ej_45.AssemblyInfoInputs.cache
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\obj\Debug\netcoreapp3.1\Ej_45.AssemblyInfo.cs
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\obj\Debug\netcoreapp3.1\Ej_45.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\obj\Debug\netcoreapp3.1\Ej_45.dll
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\obj\Debug\netcoreapp3.1\Ej_45.pdb
+C:\Users\Nico\source\repos\Tp final. Paradigmas.  Cano, Cicirello, Soto\Ej_45\obj\Debug\netcoreapp3.1\Ej_45.genruntimeconfig.cache
